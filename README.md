@@ -1,4 +1,3 @@
-# BTC_PRICE_PREDICTION
 - Use Machine Learning to build models to evaluate and predict.
 - The models used are Time Series Analysis (ARIMA, LSTM) and Boosting (LightGBM).
 - Compare results between models and give an overall evaluation.
